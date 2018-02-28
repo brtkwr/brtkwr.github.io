@@ -9,7 +9,7 @@ tags:
 - offline
 ---
 
-I like MathJax. It does a great job displaying equations on web pages written using `$ \rm\LaTeX $`. However, I recently wrote a Jekyll [blog post][blog-post] which uses MathJax and tried to view it on a locally deployed server while commuting on a train journey with no Internet connection. Then, I realised that it did not render the equations at all because it relied on sending AJAX requests to a remote server. Something had to be done and this is how I went about fixing it.
+I like MathJax. It does a great job displaying equations on web pages written using $\rm\LaTeX$. However, I recently wrote a Jekyll [blog post][blog-post] which uses MathJax and tried to view it on a locally deployed server while commuting on a train journey with no Internet connection. Then, I realised that it did not render the equations at all because it relied on sending AJAX requests to a remote server. Something had to be done and this is how I went about fixing it.
 
 First of all, I cloned MathJax from its [Github repository][mathjax] and placed it on a separate folder called `PathToMathJax/` outside the scope of this Jekyll site.
 

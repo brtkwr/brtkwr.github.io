@@ -17,7 +17,7 @@ After installing [TSS's Aimsun][aimsun] 8.1.3 on Ubuntu 16.04 (x64 build) on my 
 
 Instead of starting normally, I got the following message instead:
 
-> Aimsun: error while loading shared libraries: libvpx.so.1: cannot open shared object file: No such file or directory`
+> Aimsun: error while loading shared libraries: libvpx.so.1: cannot open shared object file: No such file or directory
 
 This was resolved by downloading version [1.3.0-3][1.3.0-3] of [libvpx][libvpx]. To install, run the following dpkg command on terminal:
 

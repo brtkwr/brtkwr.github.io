@@ -42,7 +42,7 @@ AAV emphasises the importance of using `emotive argument` backed up by facts and
 
 *   RHS: Meanwhile, RBS which is 82% taxpayer owned hands out £607 to bankers in bonus payment
 
-AAV also likes `Counterpunches`:
+AAV also likes `counter punches`:
 
 *   David Cameron talking about decreasing national debt with contrary evidence of graph of total national debt increasing (using ONS as source).
 
@@ -71,7 +71,7 @@ As an alternative information source, AAV recommends Facebook over Twitter as he
 
 AAV is an admirer of the new Greek financial minister Yanis Varoufakis of the Syriza party and recommends watching this [interview with Max Keiser][keiser-report].
 
-On **Green party**, AAV thinks that revolution in the UK will probably called something else but shares similar ideology, possibly a coalition of the left like the Syriza party in Greece. He thinks that Greens, who have seen a massive surge in membership recently has a connotation to being a single issue party despite their effort to incorporate issues like social justice into their image.
+On `Green party`, AAV thinks that revolution in the UK will probably called something else but shares similar ideology, possibly a coalition of the left like Syriza party in Greece. He thinks that Greens, who have seen a massive surge in membership recently has a connotation to being a single issue party despite their effort to incorporate issues like social justice into their image.
 
 A member of the audience draws attention to Bristol's own independent voice [Bristol Cable][bristol-cable] who publish on a bi-monthly basis.
 
