@@ -2,6 +2,6 @@
 	path = public
 	url = git@github.com:brtknr/brtknr.github.io.git
 	branch = master
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = git@github.com:budparr/gohugo-theme-ananke.git
+[submodule "themes/coder"]
+	path = themes/coder
+	url = git@github.com:luizdepra/hugo-coder.git

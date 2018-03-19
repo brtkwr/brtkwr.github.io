@@ -1,4 +1,43 @@
-baseURL = "http://www.brtknr.com/"
-languageCode = "en-gb"
+baseURL = "http://brtknr.github.io/"
+languageCode = "en"
 title = "b_ r t k n_ r"
-theme = "ananke"
+theme = "coder"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[permalinks]
+    posts = "posts/:title/"
+    default = ":title/"
+
+[params]
+    author = "bharat kunwar"
+    description = "thoughts and experiences"
+    keywords = "blog,developer,personal"
+    info = "thoughts and experiences"
+
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/brtknr/"
+[[params.social]]
+    name = "Twitter"
+    weight = 2
+    url = "https://twitter.com/brtknr/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/brtknr/"
+
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
