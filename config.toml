@@ -1,6 +1,6 @@
 baseURL = "https://brtknr.github.io/"
 languageCode = "en"
-title = "brtknr"
+title = "blinking thoughts"
 theme = "coder"
 
 paginate = 20
@@ -16,9 +16,9 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "b_ r t k n_ r"
-    description = "thoughts and experiences"
-    keywords = "blog,developer,personal"
-    info = "thoughts and experiences"
+    info = ""
+    description = "artificial intelligence, distributed consensus, agent based modelling, open data, network science and vegan options."
+    keywords = "artificial intelligence, distributed consensus, agent based modelling, open data, network science and vegan options."
 
 [[params.social]]
     name = "Github"
