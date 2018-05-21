@@ -19,6 +19,7 @@ install:
 # This commands builds your website on travis
 script:
   - hugo 
+  - cp robots.txt keybase.txt ./public/
 
 deploy:
   local_dir: public # Default static site output dir for Hugo
