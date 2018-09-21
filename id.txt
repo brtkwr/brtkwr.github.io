@@ -1,1 +1,0 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAV3rgoGN841ygFVWObWXiTu6ulVlrvVL/k0M0/Fadr2 brtknr@Bharats-MacBook.local
