@@ -1,10 +1,12 @@
-baseURL = "https://brtknr.github.io/"
+#baseURL = "https://brtknr.github.io/"
 languageCode = "en"
 title = "blinking thoughts"
 theme = "coder"
+relativeUrls = true
 
 paginate = 20
-canonifyurls = true
+#canonifyURLs = true
+relativeURLs = true
 
 pygmentsstyle = "b2"
 pygmentscodefences = true
