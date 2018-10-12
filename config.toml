@@ -17,8 +17,8 @@ pygmentscodefencesguesssyntax = true
 [params]
     author = "b_ r t k n_ r"
     info = ""
-    description = "artificial intelligence, distributed consensus, agent based modelling, open data, network science and vegan options."
-    keywords = "artificial intelligence, distributed consensus, agent based modelling, open data, network science and vegan options."
+    description = "artificial intelligence, distributed consensus, agent based modelling, network science and vegan options."
+    keywords = "artificial intelligence, distributed consensus, agent based modelling, network science and vegan options."
 
 [[params.social]]
     name = "Github"
@@ -34,10 +34,6 @@ pygmentscodefencesguesssyntax = true
     url = "https://www.linkedin.com/in/brtknr/"
 
 [[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "/posts/"
-[[menu.main]]
     name = "About"
-    weight = 2
+    weight = 1
     url = "/about/"
