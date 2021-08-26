@@ -45,7 +45,7 @@ customCSS = []
 # Custom SCSS
 customSCSS = []
 # Custom JS
-customJS = []
+customJS = ["https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"]
 
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
 # [params.fathomAnalytics]
