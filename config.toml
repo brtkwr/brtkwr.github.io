@@ -1,5 +1,5 @@
 baseURL = "https://brtknr.github.io/"
-title = "brtknr"
+title = ""
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,7 +12,7 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Bharat Kunwar"
+author = "brtknr"
 description = "flashing thoughts"
 keywords = "artificial intelligence, distributed consensus, agent based modelling, network science and vegan options"
 info = ["Software Engineer"]
@@ -20,7 +20,7 @@ avatarURL = "images/avatar.jpg"
 #gravatar = "brtknr@bath.edu"
 footerContent = "Enter a text here."
 dateFormat = "January 2, 2006"
-hideFooter = false
+hideFooter = true
 hideCredits = false
 hideCopyright = false
 since = 1989
