@@ -8,8 +8,6 @@ pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
-# Enable Disqus comments
-# disqusShortname = "brtknr"
 
 [params]
 author = "Bharat Kunwar"
@@ -74,6 +72,12 @@ customJS = ["https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?con
 # [params.googleTagManager]
 # id = "gid"
 
+[params.utterances]
+repo = "brtknr/brtknr.github.io"
+label = "posts"
+theme = "preferred-color-scheme"
+issueTerm = "pathname"
+
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]
 childsrc = ["'self'"]
@@ -81,19 +85,15 @@ fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
 formaction = ["'self'"]
 framesrc = [
   "'self'",
-  "https://disqus.com/"
+  "https://utteranc.es/",
 ]
 imgsrc = [
   "'self'",
-  "https://c.disquscdn.com/",
-  "https://referrer.disqus.com/",
 ]
 objectsrc = ["'none'"]
 stylesrc = [
   "'self'",
   "'unsafe-inline'",
-  "https://referrer.disqus.com/",
-  "https://c.disquscdn.com/",
   "https://fonts.googleapis.com/",
   "https://cdn.jsdelivr.net/"
 ]
@@ -101,14 +101,11 @@ scriptsrc = [
   "'self'",
   "'unsafe-inline'",
   "https://cdnjs.cloudflare.com/",
-  "https://c.disquscdn.com/",
-  "https://brtknr.disqus.com/",
+  "https://utteranc.es/",
   "https://www.google-analytics.com"
 ]
 prefetchsrc = [
   "'self'",
-  "https://c.disquscdn.com/",
-  "https://disqus.com/"
 ]
 # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
 connectsrc = ["'self'", "https://www.google-analytics.com"]
