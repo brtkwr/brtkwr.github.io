@@ -1,5 +1,5 @@
 baseURL = "https://brtknr.github.io/"
-title = ""
+title = "brtknr"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -13,9 +13,9 @@ enableEmoji = true
 
 [params]
 author = "Bharat Kunwar"
-description = "random thoughts"
+description = "random interests"
 keywords = "artificial intelligence, distributed consensus, agent based modelling, network science and vegan options"
-info = ["Coder"]
+info = ["Software Masseur"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "brtknr@bath.edu"
 footerContent = ""
@@ -144,11 +144,17 @@ weight = 4
 url = "https://www.linkedin.com/in/brtknr/"
 
 [[params.social]]
+name = "CV"
+icon = "fa fa-file-pdf-o"
+weight = 5
+url = "cv.pdf"
+type = "application/pdf"
+
+[[params.social]]
 name = "RSS"
 icon = "fa fa-rss"
 weight = 6
-url = "https://brtknr.github.io/index.xml"
-rel = "alternate"
+url = "index.xml"
 type = "application/rss+xml"
 
 [languages.en]
@@ -160,6 +166,6 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Posts"
 weight = 2
 url = "posts/"

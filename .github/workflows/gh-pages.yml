@@ -25,7 +25,7 @@ jobs:
         run: hugo --minify
 
       - name: Copy artifacts to root directory
-        run: cp *.txt *.pub ./public/
+        run: cp robots.txt keybase.txt id_rsa.pub id_ed25519.pub cv.pdf ./public/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

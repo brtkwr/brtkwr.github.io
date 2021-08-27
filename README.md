@@ -1,11 +1,13 @@
-# brtknr.github.io-hugo
+# brtknr.github.io
 
 ## To clone:
 
-Over HTTPS:
+    git clone --recurse-submodules git@github.com:brtknr/brtknr.github.io.git
 
-    git clone --recurse-submodules https://github.com/brtknr/brtknr.github.io-hugo.git
+## Install hugo:
 
-Over SSH:
+    brew install hugo
 
-    git clone --recurse-submodules git@github.com:brtknr/brtknr.github.io-hugo.git
+## To build:
+
+    hugo
