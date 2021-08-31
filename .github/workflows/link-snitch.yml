@@ -9,7 +9,6 @@ on:
 
 env:
   URL: https://brtknr.github.io
-  FILENAME: report.yaml
   CONFIG: hydra.yaml
 
 jobs:
