@@ -1,0 +1,25 @@
+name: Link Snitch
+
+on:
+  push:
+    branches:
+      - gh-pages
+
+env:
+  URL: https://brtknr.github.io
+  FILENAME: report.yaml
+  CONFIG: hydra.yaml
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out master
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+      - name: Report broken links
+        uses: victoriadrake/link-snitch@master
+
