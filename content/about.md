@@ -3,7 +3,7 @@ title = "About"
 slug = "about"
 +++
 
-Hello. I am a web page pretending to be Bharat. I've lived in
+Hello. I am an about page pretending to be Bharat. I've lived in
 [Bristol][bristol] since 2012 apart from latter half of 2017 when I partnered
 up with Kyla on a 6 month tour of Nepal, Thailand, Myanmar, Vietnam, Cambodia,
 Laos and China.  I like spending my time in coffee shops, learning new stuff
