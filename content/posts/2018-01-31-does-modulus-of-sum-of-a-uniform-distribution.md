@@ -16,15 +16,15 @@ To solve this, taking a modulus of the sum seemed like a way around the problem 
 
 # Import relevant modules
 
-{{< highlight python >}}
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.stats as ss
-{{< /highlight >}}
+```
 
 # Helper functions
 
-{{< highlight python >}}
+```python
 def test(num_of_vars_in_dist, random_num_max_val, num_of_random_nums, num_of_iterations):
     list_of_sums = list()
     list_of_indices = list()
@@ -51,30 +51,30 @@ def hist(result, key, bins=100):
     plt.hist(result[key], bins=bins)
     plt.xlabel(key)
     plt.ylabel('density')
-{{< /highlight >}}
+```
 
 # Run the test
 
-{{< highlight python >}}
+```python
 result = test(
     num_of_vars_in_dist=100,
     random_num_max_val=1000,
     num_of_random_nums=100,
     num_of_iterations=10**5
     )
-{{< /highlight >}}
+```
 
 # Inspect the distribution of `list_of_sums`
 
-{{< highlight python >}}
+```python
 hist(result,'list_of_sums')
-{{< /highlight >}}
+```
 
 ![png](/images/uniform.modulus/Notebook_9_0.png)
 
-{{< highlight python >}}
+```python
 ss.kstest(result['list_of_sums'], 'norm', args=(), alternative='two-sided', mode='approx')
-{{< /highlight >}}
+```
 
     KstestResult(statistic=1.0, pvalue=0.0)
 
@@ -82,15 +82,15 @@ It looks like the sum of random produce a two-sided distribution, the kind of be
 
 # Now lets look at the values of `var_dist`
 
-{{< highlight python >}}
+```python
 hist(result,'list_of_indices')
-{{< /highlight >}}
+```
 
 ![png](/images/uniform.modulus/Notebook_13_0.png)
 
-{{< highlight python >}}
+```python
 ss.kstest(result['list_of_indices'], 'uniform', args=(), alternative='two-sided', mode='approx')
-{{< /highlight >}}
+```
 
     KstestResult(statistic=0.99026000000000003, pvalue=0.0)
 

@@ -13,25 +13,25 @@ I have just set up a way to automatically log temperature using OSX terminal bec
 
 First of all, I installed [Temperature Monitor for OSX][temp-monitor] from this URL into the application folder.
 
-On terminal, I entered the following command to edit `crontab` using `nano` text editor environment.
+On terminal, I entered the following command to edit `crontab` using `vim` text editor.
 
-{{< highlight bash >}}
-env EDITOR=nano crontab -e
-{{< /highlight >}}
+```bash
+env EDITOR=vim crontab -e
+```
 
 In the editor, I entered the following line which creates and appends date, time and  temperatures from all your built-in sensors at a minute interval to `~/Documents/temp.txt`. Feel free to change this to whatever you like.
 
-{{< highlight bash >}}
+```bash
 *       *       *       *       *       date >> ~/Documents/temp.txt && /Applications/TemperatureMonitor.app/Contents/MacOS/tempmonitor -c -l -a >> ~/Desktop/temp.txt
-{{< /highlight >}}
+```
 
 Press `CTRL+X` followed by `Yes` then `ENTER` to save the file. Then you're done! Wait for the file to be created on your desktop.
 
 To filter the `DIODE` temperatures, simply enter the following command into the terminal.
 
-{{< highlight bash >}}
+```bash
 cat ~/Desktop/temp.txt | grep 'DIODE'
-{{< /highlight >}}
+```
 
 The latest temperature is shown at the bottom.
 

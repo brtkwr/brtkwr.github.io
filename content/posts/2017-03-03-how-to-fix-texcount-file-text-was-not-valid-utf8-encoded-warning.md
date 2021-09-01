@@ -10,15 +10,15 @@ tags:
 - texcount
 ---
 
-In the process of writing my thesis which I have now handed in, I had to quite often check that I was not exceeding the word limit by running the following command:
+In the process of writing my thesis, I had to frequently check that I was not exceeding the word limit by running the following command:
 
-{{< highlight bash >}}
+```bash
 texcount thesis.tex -inc -nosub
-{{< /highlight >}}
+```
 
 And each time, I would get the following warning:
 
-> !!! File/text was not valid utf8 encoded. !!!
+    !!! File/text was not valid utf8 encoded. !!!
 
 It was not until one of my supervisors noticed that something was causing strange artefacts to appear in the compiled PDF document in the feedback stage that I realised that it was to do with the Unicode characters hiding in the literature review chapter when I was copying block citation quotes from other publications. I was obviously not going to look through an entire chapter for Unicode characters so here is how I automated the process:
 
