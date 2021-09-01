@@ -15,30 +15,30 @@ First of all, I cloned MathJax from its [Github repository][mathjax] and placed 
 
 In `_config.yml`, I added a new variable called `mathjax_url` which contains the URL that Jekyll will use on the production site as below:
 
-{{< highlight yaml >}}
+```yaml
 mathjax_url: http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
-{{< /highlight >}}
+```
 
 Then, in order to override the production setting on the development server, I created a separate file called `_config-dev.yml` on the same folder containing the following:
 
-{{< highlight yaml >}}
+```yaml
 mathjax_url: http://localhost:4000/MathJax.js
-{{< /highlight >}}
+```
 
 In `_layouts/header.html`, include the following line:
 
-{{< highlight html >}}
+```html
 <script type="text/javascript" src="{{ site.mathjax_url }}"></script>
-{{< /highlight >}}
+```
 
 In order to automate deployment on the local server, I created a bash script called `serve.sh` with the following:
 
-{{< highlight bash >}}
+```bash
 pushd PathToMathJax/; python -m SimpleHTTPServer & popd
 jekyll serve --config _config.yml,_config-dev.yml
-{{< /highlight >}}
+```
 
 As you can see, Jekyll uses the settings contained in `_config.yml` then overrides the settings with the content of `_config-dev.yml`. Now, simply execute `serve.sh` to watch everything work together like a clockwork. Hurrah!
 
-[blog-post]:http://massevac.github.io/2015/03/10/how-well-does-population-distribution.html
-[mathjax]:http://www.github.com/mathjax/MathJax
+[blog-post]: /posts/2015-03-10-how-well-does-population-distribution/
+[mathjax]: http://www.github.com/mathjax/MathJax

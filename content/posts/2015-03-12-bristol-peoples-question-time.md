@@ -58,16 +58,14 @@ And check out these organisations in Bristol if you want to get involved in some
 1.  [ACORN][acorn] - community action group that mobilises action for issues like housing crisis etc.
 2.  [Bristol Women’s Voice][womens-voice]
 3.  [South-west TUC][tuc]
-4.  [The Bristol Party][bristol-party]
-5.  [Bristol People’s Assembly][peoples-assembly]
+4.  The Bristol Party
+5.  Bristol People’s Assembly
 6.  [Bristol Green Party][green-party]
 
 [acorn]: http://www.acorncommunities.org.uk
 [womens-voice]: http://www.bristolwomensvoice.org.uk
 [tuc]: https://www.tuc.org.uk/south-west
-[bristol-party]: thebristolparty.com
-[peoples-assembly]: http://www.bristolpeoplesassembly.org
-[green-party]: bristolgreenparty.org.uk
+[green-party]: https://bristolgreenparty.org.uk
 [what-we-do-wiki]: http://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows
 [what-we-do-image]: /images/whatwedo.jpg
 [salma]: https://www.youtube.com/watch?v=u7Qrx7i9AKM

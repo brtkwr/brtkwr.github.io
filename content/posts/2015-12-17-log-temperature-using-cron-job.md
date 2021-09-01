@@ -35,4 +35,4 @@ cat ~/Desktop/temp.txt | grep 'DIODE'
 
 The latest temperature is shown at the bottom.
 
-[temp-monitor]:http://www.bresink.eu/Downloads/TemperatureMonitor.dmg
+[temp-monitor]: https://www.bresink.eu/Downloads/HardwareMonitor-CE.dmg
