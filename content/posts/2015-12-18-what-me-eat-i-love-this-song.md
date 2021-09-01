@@ -8,7 +8,7 @@ tags:
 
 I love this song. Vegan solidarity!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLqjLn0W5K0" frameborder="0" allowfullscreen></iframe>
+{{< youtube FLqjLn0W5K0 >}}
 
 Here is the lyrics borrowed from [this site][lyrics]:
 

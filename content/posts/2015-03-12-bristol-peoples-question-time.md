@@ -45,7 +45,9 @@ _Women standing up to injustice_
 
 There was a plead for solidarity from a woman who had travelled all the way down from Gloucestershire to tell everyone a story of how her family has recently been victims of racist abuses after some members of EDL moved in next door making life extremely unpleasant for them. Things had escalated as far as going to the court after attempts to ask help of local conservative politician backfired when they were told that they should move elsewhere. For those of you who can, lets give them solidarity on 23 March at Gloucester court when they have a hearing.
 
-Someone recommended watching this documentary called [Salma][salma] which is about a South Indian girl who is locked away by her family in her cottage as soon as she reaches puberty and not allowed to attend school. I am not entirely sure how it fits into the context of the discussion? Maybe I misheard it.
+Someone recommended watching a documentary called Salma about a South Indian girl who is locked away by her family in her cottage as soon as she reaches puberty and not allowed to attend school.
+
+{{<youtube u7Qrx7i9AKM>}}
 
 Save these important dates for the calendar:
 
@@ -68,7 +70,6 @@ And check out these organisations in Bristol if you want to get involved in some
 [green-party]: https://bristolgreenparty.org.uk
 [what-we-do-wiki]: http://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows
 [what-we-do-image]: /images/whatwedo.jpg
-[salma]: https://www.youtube.com/watch?v=u7Qrx7i9AKM
 [belveridge-report-wiki]: http://en.wikipedia.org/wiki/Beveridge_Report
 [belveridge-image]: /images/belveridge.jpg
 [suffragettes]: /images/suff.jpg

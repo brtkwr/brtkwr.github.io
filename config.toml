@@ -87,6 +87,7 @@ formaction = ["'self'"]
 framesrc = [
   "'self'",
   "https://utteranc.es/",
+  "https://www.youtube.com/",
 ]
 imgsrc = [
   "'self'",

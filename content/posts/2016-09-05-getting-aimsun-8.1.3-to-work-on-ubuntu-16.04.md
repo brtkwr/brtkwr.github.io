@@ -27,7 +27,7 @@ sudo dpkg -i libvpx1_1.3.0-3ubuntu1_amd64.deb
 
 Now that Aimsun is fixed, let us all enjoy this cool video of an intersection:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ufK2XRGUjuc" frameborder="0" allowfullscreen></iframe>
+{{<youtube ufK2XRGUjuc>}}
 
 [aimsun]:https://www.aimsun.com
 [libvpx]:https://launchpad.net/ubuntu/%2Bsource/libvpx

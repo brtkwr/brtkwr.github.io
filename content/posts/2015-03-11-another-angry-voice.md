@@ -69,7 +69,9 @@ With regards to the benefit cuts, AAV speculates that the public sector workers 
 
 As an alternative information source, AAV recommends Facebook over Twitter as he thinks that the information can reach more people than Twitter.
 
-AAV is an admirer of the new Greek financial minister Yanis Varoufakis of the Syriza party and recommends watching this [interview with Max Keiser][keiser-report].
+AAV is an admirer of the new Greek financial minister Yanis Varoufakis of the Syriza party and recommends watching this interview with Max Keiser:
+
+{{<youtube pwAClUrhrek>}}
 
 On `Green party`, AAV thinks that revolution in the UK will probably called something else but shares similar ideology, possibly a coalition of the left like Syriza party in Greece. He thinks that Greens, who have seen a massive surge in membership recently has a connotation to being a single issue party despite their effort to incorporate issues like social justice into their image.
 
@@ -86,5 +88,4 @@ Check out [AAV's own blog here][aav-blog].
 [guy-fawkes]: https://www.facebook.com/guyfawkesrevolt
 [aav]: /images/aav.png
 [aav-blog]: http://anotherangryvoice.blogspot.co.uk
-[keiser-report]: https://www.youtube.com/watch?v=pwAClUrhrek
 [bristol-cable]: http://thebristolcable.org
