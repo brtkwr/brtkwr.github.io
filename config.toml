@@ -56,8 +56,8 @@ customJS = ["https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?con
 # serverURL = "analytics.example.com" # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
 
 # If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
-# [params.goatCounter]
-# code = "code"
+[params.goatCounter]
+code = "brtknr"
 
 # If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
 # [params.cloudflare]
@@ -89,6 +89,7 @@ framesrc = [
 ]
 imgsrc = [
   "'self'",
+  "https://brtknr.goatcounter.com/",
 ]
 objectsrc = ["'none'"]
 stylesrc = [
@@ -102,7 +103,8 @@ scriptsrc = [
   "'unsafe-inline'",
   "https://cdnjs.cloudflare.com/",
   "https://utteranc.es/",
-  "https://www.google-analytics.com"
+  "https://www.google-analytics.com",
+  "https://gc.zgo.at",
 ]
 prefetchsrc = [
   "'self'",
