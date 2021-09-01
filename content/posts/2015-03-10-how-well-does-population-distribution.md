@@ -8,7 +8,7 @@ tags:
 - agent based modelling
 ---
 
-Previously, we tried to predict 90th percentile evacuation time `$T\_{90}$` determined from ABM simulation using 90th percentile free flow clearance time $T90f$. Bigger the city, greater we can expect $T90f$ to be since it would take longer to traverse. Plotting $T90f$ vs $T90$ produces the figure below. $T90f$ under predicts $T90$ with a poor fit ($R=0.31$) but it is clear that $T90$ is never less than $T90f$!
+Previously, we tried to predict 90th percentile evacuation time $T{90}$ determined from ABM simulation using 90th percentile free flow clearance time $T90f$. Bigger the city, greater we can expect $T90f$ to be since it would take longer to traverse. Plotting $T90f$ vs $T90$ produces the figure below. $T90f$ under predicts $T90$ with a poor fit ($R=0.31$) but it is clear that $T90$ is never less than $T90f$!
 
 ![T90f vs T90][T90f-T90]
 
