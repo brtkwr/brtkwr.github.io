@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is sum(uniform distribution) % n == uniform distribution?"
+title: "Trustless pseudo-random number generation"
 date: 2018-01-31T00:00:00+00:00
 tags:
 - python
