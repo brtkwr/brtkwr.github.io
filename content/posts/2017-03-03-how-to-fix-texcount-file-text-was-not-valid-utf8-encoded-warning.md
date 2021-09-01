@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Fixing !!! File/text was not valid utf8 encoded. !!! warning"
+title: "File/text was not valid utf8 encoded"
+
 date: 2017-03-03T19:00:00+00:00
 tags:
 - LaTeX
