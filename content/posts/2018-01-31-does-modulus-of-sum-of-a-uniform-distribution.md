@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Does modulus of sum of a uniform distribution also produce a uniform distribution?"
+title: "Is sum(uniform distribution) % n == uniform distribution?"
 date: 2018-01-31T00:00:00+00:00
 tags:
 - python

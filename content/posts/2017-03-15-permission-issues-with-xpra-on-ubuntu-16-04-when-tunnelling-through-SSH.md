@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Permission issues with xpra 0.15.x on Ubuntu 16.04 Xenial when tunnelling through SSH"
+title: "Permission issues with xpra when tunnelling through SSH"
 date: 2017-03-15T19:00:00+00:00
 tags:
 - SSH

@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Converting lots of raster files from one reference system to another"
+title: "Converting raster files from one reference system to another"
 date: 2015-10-19T13:07:14+00:00
 tags:
 - raster
 - gdalwarp
 - gdal
 - bash
+- gis
 ---
 
 I had to convert lots of OSGB EPSG:27700 raster files to LonLat EPSG:4326 format and here is how I did it on my OSX terminal. I also wanted to change the format from `*.asc` to `*.tif`. Supposing you already have `gdal` libraries installed, just run the following code:
