@@ -1,5 +1,5 @@
 baseURL = "https://brtknr.github.io/"
-title = "brtknr"
+title = "भरतकुँवर"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -10,7 +10,7 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 
 [params]
-author = "Bharat Kunwar"
+author = "brtknr"
 description = "random interests"
 keywords = "artificial intelligence, distributed consensus, agent based modelling, network science and vegan options"
 info = ["Software Engineer"]
