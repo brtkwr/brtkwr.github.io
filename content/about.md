@@ -3,15 +3,24 @@ title = "About"
 slug = "about"
 +++
 
-Hello. I am an about page pretending to be Bharat. I've lived in
-[Bristol][bristol] since 2012 apart from latter half of 2017 when I partnered
-up with Kyla on a 6 month tour of Nepal, Thailand, Myanmar, Vietnam, Cambodia,
-Laos and China.  I like spending my time in coffee shops, learning new stuff
-([fast.ai][fastai], [smart contracts][strangelabs]), going to hackathons,
-sampling vegan foods and collaborating on coding projects (_hint hint_).
+Hello. I am an about page pretending to be `brtknr` or `भरतकुँवर` in Nepalese. I
+have lived in [Bristol][bristol] since 2012, a city that I grown to love. At
+the end of 2019, the family has doubled in size with the arrival of our twins.
+While I would rate the pandemic low for many things but it has been great for
+optimising work/life balance. I do miss some aspects of commuting, e.g.
+listening to my favourite podcasts] on my way to work but now I can do that
+while I am out with the children sleeping in the pram instead. I still enjoy
+spending my time in coffee shops, learning new things, going to
+hackathons/meetups, sampling vegan food and collaborating on coding projects
+(past projects: [fast.ai][fastai], [smart contracts][strangelabs]).
 
-At present, I work as a Software Engineer at [StackHPC][stackhpc] making HPC
-cloud platform for research computing use case using [OpenStack][openstack].  
+Until September 2021, I worked as a Software Engineer at [StackHPC][stackhpc]
+making HPC cloud platform for research computing use case using
+[OpenStack][openstack] and [Kubernetes][kubernetes].
+
+In the latter half of 2017, I partnered up with Kyla and went on a 6 month tour
+of Nepal, Thailand, Myanmar, Vietnam, Cambodia, Laos and China. Checkout some
+of our [travel photos][kylaandbharatinasia].
 
 In 2017, I defended my doctoral thesis on [mass evacuation modelling][massevac]
 at [University of Bristol][buncaer]. Feel free to check out my
@@ -33,24 +42,31 @@ months applying [deep reinforcement learning][drl] to optimise policy of
 interaction between connected autonomous vehicles as part of a consortium
 called [Flourish][flourish].
 
-Prior to Bristol, I was living in Bath until 2012 to complete an undergraduate
-Master's degree in Civil and Architectural Engineering at [University of
-Bath][6east].
+Before moving to Bristol in 2012, I was living in Bath to complete an
+undergraduate Master's degree in Civil and Architectural Engineering at
+[University of Bath][6east].
 
-Going all the way back, I was born in western Nepal in a village called
-[Burtibang][burtibang]. As my father was in the [Brigade of
-Gurkhas][gurkhas], my mother and I went to join him in Hong Kong for 3 years
-where my brother was born. I went back to living in [Kathmandu
-Valley][kunwar-bhawan], some of which I spent with my extended family and
-other 5 years in a boarding school. At the age of 13, I was reunited with my
-parents in the UK where I've sampled living up North in Blackpool, down South
-in Folkestone and Ashford and at present in the West Country.
+Until 2009, I was living in Ashford with my parents while finishing up my
+A-levels at Harvey Grammar School in Folkestone where we lived until 2007.
+
+I was reunited with my parents and brother in 2003 near Kirkham, UK where I
+completed my GCSEs at Carr Hill High School.
+
+I lived in [Kathmandu Valley][kunwar-bhawan] from 1995, some of which I spent
+with my mother and extended family but the last 5 years at a boarding school.
+
+As my father was in the [Brigade of Gurkhas][gurkhas], my mother and I went to
+join him in Hong Kong in 1991 for 3 years where my brother was born.
+
+Going all the way back to 1989, I was born in western Nepal in a village called
+[Burtibang][burtibang].
 
 [kunwar-bhawan]: https://www.openstreetmap.org/way/326499217
 [gurkhas]: https://www.army.mod.uk/who-we-are/corps-regiments-and-units/brigade-of-gurkhas
 [burtibang]: https://www.openstreetmap.org/relation/5816730
 [stackhpc]: https://www.stackhpc.com
 [openstack]: https://www.openstack.org
+[kubernetes]: https://www.kubernetes.io
 [bristol]: https://www.openstreetmap.org/relation/5746665
 [buncaer]: https://www.openstreetmap.org/way/326566712
 [6east]: https://www.openstreetmap.org/way/87256470
@@ -63,3 +79,4 @@ in Folkestone and Ashford and at present in the West Country.
 [scholar]: https://scholar.google.co.uk/citations?user=1j1MYeoAAAAJ
 [fastai]: https://forums.fast.ai
 [strangelabs]: https://github.com/strange-labs-uk
+[kylaandbharatinasia]: https://www.instagram.com/explore/tags/kylaandbharatinasia/
