@@ -6,9 +6,9 @@ slug = "about"
 Hello. I am an about page pretending to be `brtknr` or `भरतकुँवर` in Nepalese. I
 have lived in [Bristol][bristol] since 2012, a city that I grown to love. At
 the end of 2019, the family has doubled in size with the arrival of our twins.
-While I would rate the pandemic low for many things but it has been great for
-optimising work/life balance. I do miss some aspects of commuting, e.g.
-listening to my favourite podcasts] on my way to work but now I can do that
+While I would rate the pandemic low for many reasons, it has been great for
+balancing work/life activities. I do miss some aspects of commuting, e.g.
+listening to my favourite podcasts on my way to work but now I can do that
 while I am out with the children sleeping in the pram instead. I still enjoy
 spending my time in coffee shops, learning new things, going to
 hackathons/meetups, sampling vegan food and collaborating on coding projects
