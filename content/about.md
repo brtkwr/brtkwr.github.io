@@ -59,7 +59,10 @@ As my father was in the [Brigade of Gurkhas][gurkhas], my mother and I went to
 join him in Hong Kong in 1991 for 3 years where my brother was born.
 
 Going all the way back to 1989, I was born in western Nepal in a village called
-[Burtibang][burtibang].
+[Burtibang][burtibang]. hello
+
+<div id="wcb" class="carbonbadge"></div>
+<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
 
 [kunwar-bhawan]: https://www.openstreetmap.org/way/326499217
 [gurkhas]: https://www.army.mod.uk/who-we-are/corps-regiments-and-units/brigade-of-gurkhas

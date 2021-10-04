@@ -9,6 +9,9 @@ pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 author = "brtknr"
 description = "random interests"
@@ -106,14 +109,17 @@ scriptsrc = [
   "https://cdn.jsdelivr.net",
   "https://polyfill.io",
   "https://utteranc.es/",
-  "https://www.google-analytics.com",
   "https://gc.zgo.at",
+  "https://unpkg.com",
 ]
 prefetchsrc = [
   "'self'",
 ]
 # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
-connectsrc = ["'self'", "https://www.google-analytics.com"]
+connectsrc = [
+  "'self'",
+  "https://api.websitecarbon.com",
+]
 
 [taxonomies]
 category = "categories"
