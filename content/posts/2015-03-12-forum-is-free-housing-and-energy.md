@@ -12,7 +12,7 @@ On 11 May, Bristol Green Party hosted a forum to discuss housing and energy at T
 
 The meeting was chaired by Darren Hall, Green Party candidate for Bristol West and Director of Bristol Green Week and on the panel were:
 
-1. Oona Goldsworthy, Chief Executive of [United Communities][united-communities]
+1. Oona Goldsworthy, Chief Executive of United Communities
 2. Mike Roberts, Director of HAB housing owned by Kevin McCloud
 3. Shankari Raj Edgar, Director of [Nudge Group][nudge-group]
 4. Keith Cowling, Chair of Bristol [Community Land Trust][community-land-trust] and Director of Community Buildings Federation
@@ -50,7 +50,6 @@ Summary from Darren:
 3. There is a need for long term community engagement in the design process.
 4. We need to press forward with devolution agenda.
 
-[united-communities]: http://unitedcommunities.org.uk
 [new-build]: /images/new_build.jpg
 [nudge-group]: http://nudgegroup.com
 [community-land-trust]: http://bristolclt.org.uk
