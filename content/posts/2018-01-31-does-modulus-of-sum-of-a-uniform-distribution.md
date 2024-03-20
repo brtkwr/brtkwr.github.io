@@ -12,7 +12,7 @@ I have been working on an [Ethereum lottery](https://github.com/strange-labs-uk/
 
 In order to make the system truly trustless, one of the ideas involved each participant generating their own random number and submitting it to the contract when they buy their lottery tickets. However I was concerned that taking a sum of of these numbers would result in a normal distribution allowing the early and late participants to have a built in disadvantage.
 
-To solve this, taking a modulus of the sum seemed like a way around the problem however I wanted to make sure that this was really the case. Therefore, [this notebook](https://github.com/brtknr/UniformModulus) is an exploration of whether the list of modulus really does produce a uniform distribution over lots of simulated scenarios.
+To solve this, taking a modulus of the sum seemed like a way around the problem however I wanted to make sure that this was really the case. Therefore, [this notebook](https://github.com/brtkwr/UniformModulus) is an exploration of whether the list of modulus really does produce a uniform distribution over lots of simulated scenarios.
 
 # Import relevant modules
 

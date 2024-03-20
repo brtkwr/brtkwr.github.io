@@ -3,7 +3,7 @@ title = "About"
 slug = "about"
 +++
 
-Hello. I am an about page pretending to be `brtknr` or `भरतकुँवर` in Nepalese. I
+Hello. I am an about page pretending to be `brtkwr` or `भरतकुँवर` in Nepalese. I
 have lived in [Bristol][bristol] since 2012, a city that I grown to love. At
 the end of 2019, the family has doubled in size with the arrival of our twins.
 While I would rate the pandemic low for many reasons, it has been great for
@@ -73,7 +73,7 @@ Going all the way back to 1989, I was born in western Nepal in a village called
 [bristol]: https://www.openstreetmap.org/relation/5746665
 [buncaer]: https://www.openstreetmap.org/way/326566712
 [6east]: https://www.openstreetmap.org/way/87256470
-[website]: https://brtknr.github.io
+[website]: https://brtkwr.github.io
 [osm]: http://openstreetmap.org
 [massevac]: https://massevac.github.io
 [flourish]: http://www.flourishmobility.com

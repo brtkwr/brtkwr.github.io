@@ -8,7 +8,7 @@ on:
       - completed
 
 env:
-  URL: https://brtknr.github.io
+  URL: https://brtkwr.github.io
   CONFIG: hydra.yaml
 
 jobs:

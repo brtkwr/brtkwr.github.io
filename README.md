@@ -2,7 +2,7 @@
 
 ## To clone:
 
-    git clone --recurse-submodules git@github.com:brtknr/brtknr.github.io.git
+    git clone --recurse-submodules git@github.com:brtkwr/brtkwr.github.io.git
 
 ## Install hugo:
 
