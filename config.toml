@@ -1,5 +1,5 @@
 baseURL = "https://brtkwr.github.io/"
-title = "brtkwr"
+title = "brtkwr.com"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -43,7 +43,7 @@ maxSeeAlsoItems = 5
 # Enable Twemoji
 enableTwemoji = false
 # Custom CSS
-customCSS = []
+customCSS = ["css/override.css"]
 # Custom SCSS
 customSCSS = []
 # Custom JS
