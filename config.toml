@@ -1,5 +1,5 @@
 baseURL = "https://brtkwr.github.io/"
-title = "Bharat Kunwar"
+title = "brtkwr"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -13,7 +13,7 @@ enableEmoji = true
 unsafe = true
 
 [params]
-author = "brtkwr"
+author = "Bharat Kunwar"
 description = "random interests"
 keywords = "artificial intelligence, distributed consensus, agent based modelling, network science and vegan options"
 info = ["Software Engineer"]
