@@ -3,63 +3,57 @@ title = "About"
 slug = "about"
 +++
 
-Hello. I am an about page pretending to be `brtkwr` or `भरतकुँवर` in Nepalese. I
-have lived in [Bristol][bristol] since 2012, a city that I grown to love. At
-the end of 2019, the family has doubled in size with the arrival of our twins.
-While I would rate the pandemic low for many reasons, it has been great for
-balancing work/life activities. I do miss some aspects of commuting, e.g.
-listening to my favourite podcasts on my way to work but now I can do that
-while I am out with the children sleeping in the pram instead. I still enjoy
-spending my time in coffee shops, learning new things, going to
-hackathons/meetups, sampling vegan food and collaborating on coding projects
-(past projects: [fast.ai][fastai], [smart contracts][strangelabs]).
+# About Me
 
-Until September 2021, I worked as a Software Engineer at [StackHPC][stackhpc]
-making HPC cloud platform for research computing use case using
-[OpenStack][openstack] and [Kubernetes][kubernetes].
+I'm Bharat (although I usually go by `brtkwr` handle on the tinternet). I've lived in [Bristol][bristol] since 2012 - a city I love love love!
 
-In the latter half of 2017, I partnered up with Kyla and went on a 6 month tour
-of Nepal, Thailand, Myanmar, Vietnam, Cambodia, Laos and China. Checkout some
-of our [travel photos][kylaandbharatinasia].
+## Current Life
 
-In 2017, I defended my doctoral thesis on [mass evacuation modelling][massevac]
-at [University of Bristol][buncaer]. Feel free to check out my
-[publications][scholar]. The best part of the doctoral training was going to
-conferences and workshops in all these places:
+My family doubled in size with the arrival of twins at the end of 2019. While the pandemic brought many challenges, it helped me find a better work-life balance. Though I miss my commute-time podcasts, I now enjoy them during pram walks with the children.
 
-- TGF 2015 - Delft, Netherlands
-- CDAM 2015 - Lake Como, Italy
-- SCCS 2015 - Granada, Spain
-- AUM 2015 - Cambridge, UK
-- PED 2014 - Delft, Netherlands
-- SCCS 2014 Brighton, UK
-- AUM 2014 - Cambridge, UK
-- TGF 2013 - Julich, Germany
-- AUM 2013 - Cambridge, UK
+I'm passionate about:
 
-As I was writing up my thesis in 2016, I also worked at [Airbus][agi] for 9
-months applying [deep reinforcement learning][drl] to optimise policy of
-interaction between connected autonomous vehicles as part of a consortium
-called [Flourish][flourish].
+- Societal impact of technology
+- Discovering vegan cuisine
+- Exploring coffee shops
+- Attending hackathons and meetups
+- Collaborating on coding projects (e.g. [fast.ai][fastai], [smart contracts][strangelabs], etc.)
 
-Before moving to Bristol in 2012, I was living in Bath to complete an
-undergraduate Master's degree in Civil and Architectural Engineering at
-[University of Bath][6east].
+## Professional Journey
 
-Until 2009, I was living in Ashford with my parents while finishing up my
-A-levels at Harvey Grammar School in Folkestone where we lived until 2007.
+- 2021 - Present: Senior Software Engineer at [Two][two], a company with a mission to solve cash flow issues for B2B transactions.
+- 2018 - 2021: Software Engineer at [StackHPC][stackhpc] where I learnt about open source collaboration and HPC for research computing using [OpenStack][openstack] and [Kubernetes][kubernetes].
+- 2016 - 2017: Research Software Engineer at [Airbus][agi]. I had the opportunity to apply [deep reinforcement learning][drl] to optimize interactions between connected autonomous vehicles as part of a [Flourish][flourish] consortium project.
+- 2012 - 2017: PhD in Engineering at [University of Bristol][buncaer] under supervision of Anders Johansson and Filippo Simini with a focus on [mass evacuation modelling][massevac]. My research is available [here][scholar]. During my doctoral training, I presented at numerous international conferences:
 
-I was reunited with my parents and brother in 2003 near Kirkham, UK where I
-completed my GCSEs at Carr Hill High School.
+- TGF 2015 (Delft, Netherlands)
+- CDAM 2015 (Lake Como, Italy)
+- SCCS 2015 (Granada, Spain)
+- AUM 2015 (Cambridge, UK)
+- PED 2014 (Delft, Netherlands)
+- SCCS 2014 (Brighton, UK)
+- AUM 2014 (Cambridge, UK)
+- TGF 2013 (Julich, Germany)
+- AUM 2013 (Cambridge, UK)
 
-I lived in [Kathmandu Valley][kunwar-bhawan] from 1995, some of which I spent
-with my mother and extended family but the last 5 years at a boarding school.
+## Travel Adventures
 
-As my father was in the [Brigade of Gurkhas][gurkhas], my mother and I went to
-join him in Hong Kong in 1991 for 3 years where my brother was born.
+- 2023: The four of us went on a 3 month tour of Asia again. Again after a family visit to Nepal for 3 weeks, we stayed in Thailand for 6 weeks (Phuket and Koh Lanta), followed by Kuala Lumpur for a week and Sri Lanka for 6 weeks where we were also joined by family and friends. I also had the chance to work remotely from Thailand and Sri Lanka and the time zone difference worked out really well as I was doing things with the children in the morning and starting work in the afternoon.
+- 2017: Kyla and I embarked on a 6-month journey through Asia, exploring Nepal, Thailand, Myanmar, Vietnam, Cambodia, Laos, and China. You can view our adventures in our [travel photos][kylaandbharatinasia].
 
-Going all the way back to 1989, I was born in western Nepal in a village called
-[Burtibang][burtibang]. hello
+## Educational Background
+
+- 2012: Completed Master's in Civil and Architectural Engineering at [University of Bath][6east]
+- 2007-2009: A-levels at Harvey Grammar School, Folkestone
+- 2003-2007: GCSEs at Carr Hill High School, Kirkham
+
+## Early Life
+
+My journey began in [Burtibang][burtibang], western Nepal, where I was born in 1989. As the son of a [Brigade of Gurkhas][gurkhas] serviceman, my early years were quite mobile:
+
+- 1991-1994: Lived in Hong Kong with my parents (where my brother was born)
+- 1995-2003: Resided in [Kathmandu Valley][kunwar-bhawan], partly with family and later at boarding school
+- 2003: Reunited with family in the UK
 
 <div id="wcb" class="carbonbadge wcb-d"></div>
 <script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
@@ -71,15 +65,11 @@ Going all the way back to 1989, I was born in western Nepal in a village called
 [openstack]: https://www.openstack.org
 [kubernetes]: https://www.kubernetes.io
 [bristol]: https://www.openstreetmap.org/relation/5746665
-[buncaer]: https://www.openstreetmap.org/way/326566712
+[buncaer]: https://www.openstreetmap.org/node/2622814308
 [6east]: https://www.openstreetmap.org/way/87256470
-[website]: https://brtkwr.github.io
-[osm]: http://openstreetmap.org
-[massevac]: https://massevac.github.io
 [flourish]: http://www.flourishmobility.com
 [drl]: https://deepmind.com/blog/deep-reinforcement-learning
 [agi]: https://www.linkedin.com/company/airbus-group-innovations
-[scholar]: https://scholar.google.co.uk/citations?user=1j1MYeoAAAAJ
 [fastai]: https://forums.fast.ai
 [strangelabs]: https://github.com/strange-labs-uk
 [kylaandbharatinasia]: https://www.instagram.com/explore/tags/kylaandbharatinasia/
