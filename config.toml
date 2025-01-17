@@ -15,8 +15,8 @@ unsafe = true
 [params]
 author = "Bharat Kunwar"
 description = "random interests"
-keywords = "artificial intelligence, distributed consensus, agent based modelling, network science and vegan options"
-info = ["Software Engineer"]
+keywords = "artificial intelligence, distributed consensus, agent based modelling, network science and vegan food"
+info = []
 avatarURL = "images/avatar.jpg"
 #gravatar = "brtkwr@gmail.com"
 footerContent = ""
