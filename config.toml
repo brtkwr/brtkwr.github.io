@@ -3,11 +3,14 @@ title = "brtkwr.com"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
+
+[pagination]
+pagerSize = 20
+
 
 [markup.goldmark.renderer]
 unsafe = true
